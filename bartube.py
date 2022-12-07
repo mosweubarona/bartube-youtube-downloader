@@ -37,7 +37,7 @@ logo_img = PhotoImage(file='images\\bartube-log.png')
 logo_img = logo_img.subsample(1, 1)
 canvas.create_image(250, 80, image=logo_img)
 
-#wwhere link is pasted
+#where link is pasted
 link_field = Entry(screen, width=40, font=('Arial', 15) )
 link_label = Label(screen, text="Enter Download Link Below", font=('Arial', 15))
 
