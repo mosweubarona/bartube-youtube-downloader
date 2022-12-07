@@ -1,7 +1,7 @@
 ## About The Project
 
-Youtube Downloader is a Python Application that can be used to download Youtube Videos. Youtube Downloader is developed using Pytube and Tkinter.
-![Employee data](https://github.com/mosweubarona/bartube-youtube-downloader/blob/main/images/full.png?raw=true "Employee Data title")
+Youtube Downloader is a Python Application that can be used to download Youtube Videos. Bartube Youtube Downloader is developed using Pytube and Tkinter.
+![Bartube](https://github.com/mosweubarona/bartube-youtube-downloader/blob/main/images/full.png?raw=true "Bartube Downloader")
 
 
 ## Technology Stack
@@ -10,8 +10,6 @@ Youtube Downloader is a Python Application that can be used to download Youtube 
 * [Pytube](https://python-pytube.readthedocs.io/en/latest/)
 * [Tkinter](https://www.tutorialspoint.com/python/python_gui_programming.htm)
 ## Local Installation
-<img src="https://github.com/mosweubarona/bartube-youtube-downloader/blob/main/images/full.png" alt="Employee data" title="Employee Data title">
-
 
 1. Drop a ⭐ on the Github Repository. 
 2. Clone the Repo by going to your local Git Client and pushing in the command: 
