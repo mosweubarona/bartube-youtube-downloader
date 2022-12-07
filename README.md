@@ -1,7 +1,9 @@
 ## About The Project
 
 Youtube Downloader is a Python Application that can be used to download Youtube Videos. Bartube Youtube Downloader is developed using Pytube and Tkinter.
+
 ![Bartube](https://github.com/mosweubarona/bartube-youtube-downloader/blob/main/images/full.png?raw=true "Bartube Downloader")
+
 
 
 ## Technology
