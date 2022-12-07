@@ -14,7 +14,7 @@ Youtube Downloader is a Python Application that can be used to download Youtube 
 ## Installation
 
 1. Drop a star on the Github Repository. 
-2. Clone the Repo by going to your local Git Client and pushing in the command: 
+2. Clone the Repo by going to your local Git Client and pushing in the command
 
 ```sh
 git clone https://github.com/mosweubarona/bartube-youtube-downloader.git
