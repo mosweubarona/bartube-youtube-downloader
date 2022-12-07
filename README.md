@@ -51,6 +51,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Contact
 <a href="https://twitter.com/mosweubarona" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>   
 &nbsp; <a href="https://www.linkedin.com/in/barona-mosweu-9a3813a6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:mosweubarona@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 
 ## LICENSING
